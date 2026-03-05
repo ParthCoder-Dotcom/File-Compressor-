@@ -1,0 +1,5 @@
+cd compress-program
+Go to Extensions (left sidebar or Ctrl+Shift+X)
+Search for "Live Server"
+Right-click on index.html
+Select "Open with Live Server"
